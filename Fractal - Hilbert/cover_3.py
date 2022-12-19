@@ -1,3 +1,9 @@
+'''
+Octagon Hilbert curve
+Работу выполнил студент Голев. А.С. 2022</br>
+@author: goliksim 
+ 
+'''
 import turtle as tur
 
 def curve(iter):
